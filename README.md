@@ -14,3 +14,7 @@ tqdm
 moses  
 seaborn  
 
+Training:  
+sh train.sh  
+Generation:  
+sh generate.sh
