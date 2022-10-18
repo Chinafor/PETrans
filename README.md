@@ -3,6 +3,7 @@ The code of article: PETrans: De Novo Drug Design with Protein-specific Encoding
 
 Original Moses dataset:
 https://github.com/molecularsets/moses  
+*****  
 Requirements:  
 python>=3.6  
 pytorch  
@@ -13,7 +14,7 @@ wandb
 tqdm  
 moses  
 seaborn  
-
+*****  
 Training:  
 sh train.sh  
 Generation:  
