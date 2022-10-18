@@ -1,0 +1,9 @@
+receptor = receptor.pdbqt
+ligand = 
+center_x = 19.496
+center_y = 35.001
+center_z = 89.27
+size_x = 44.0
+size_y = 49.0
+size_z = 57.0
+out = out_160.pdbqt

@@ -1,0 +1,1 @@
+for i in *pdbqt;do qvinaw --config config.txt --ligand $i --out test/$i.log ;done
